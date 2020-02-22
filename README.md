@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="" width="550px" /><br>
   Projeto de site pessoal
 </h2>
 
