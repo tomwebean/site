@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="imagens/logo.png" width="550px" /><br>
-  Toda doação é importante!
+  <img src="" width="550px" /><br>
+  Projeto de site pessoal
 </h2>
 
 <p align="center">
-    <img src="./assets/0101.png"/>
+    <img src=".imagens/logo.png"/>
 </p>
 
 <p align="center">
